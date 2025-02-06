@@ -1,1 +1,1 @@
-# Ice-Cream_Stand
+Ice Cream Stand is a program representing taking in customers’ ice cream orders and computing the total revenue. This will be processing inputs and calculating the revenue based on the ice cream sizes and quantities.
